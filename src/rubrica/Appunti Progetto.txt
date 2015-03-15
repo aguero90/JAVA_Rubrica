@@ -1,0 +1,14 @@
+Problemi:
+
+- Non Inserisce i contatti: /*Sviluppare problema*/
+
+- Problema nel form Cerca Contatto: - interazione con il tasto modifica
+                                    - Non Effettua la giusta ricerca
+
+- Non riscrive bene il file alla chiusura del programma.
+
+- Sistemare ciclo apertura e chiusura form.
+
+- Decidere se la rubrica è case sansitive o no
+
+- vedere il problema di nomi tipo: "Giovanni della pace"
